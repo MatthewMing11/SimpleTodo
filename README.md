@@ -34,6 +34,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I encountered an error with the Android emulator not properly displaying the toast messages, but it was resolved once I switched my emulator to a different Android phone.
+Thanks to organizers Kevin Hui and Shulamit Dashevsky for aiding me in resolving this issue. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
